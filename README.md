@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🌱 I’m currently learning data structures and algorithms.
+- 🔭 I’m currently working on my Python skills.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tylerchan33/) email: tylerchan33@gmail.com
+- 😄 Pronouns: He/Him
 
 <!--
 **tylerchan33/tylerchan33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
